@@ -1,4 +1,4 @@
-package com.techlabs.inheritance;
+package com.techlabs.inheritance2;
 
 import java.text.DecimalFormat;
 

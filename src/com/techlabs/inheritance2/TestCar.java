@@ -1,8 +1,8 @@
-package com.techlabs.inheritance;
+package com.techlabs.inheritance2;
 
 import java.util.Scanner;
 
-public class Test {
+public class TestCar {
 
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
@@ -24,6 +24,7 @@ public class Test {
 			car[i].displayPrice();
 			System.out.println();
 		}
+		scanner.close();
 
 	}
 
